@@ -1,0 +1,26 @@
+h2,
+h3,
+p {
+  color: black;
+}
+
+p {
+  background-color: aqua;
+}
+
+.question {
+  /* background-color: red; */
+  margin-top: 4%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 2%;
+  padding-bottom: 3%;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 20px;
+}
+.submit-button {
+  margin-top: 5%;
+  margin-bottom: 4%;
+}

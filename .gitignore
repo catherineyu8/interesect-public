@@ -1,0 +1,26 @@
+# IntelliJ Config
+.idea
+
+# Maven
+target/
+.mvn
+.mvn-classpath
+pom.xml.bak
+
+# node, vite
+node_modules/
+client/*.js
+server/main/resources/
+target/
+build/
+dist/
+client/.env
+server/.env
+test-results/
+playwright-report/
+playwright/.cache/
+
+# mac
+.DS_Store
+
+server/src/main/resources/firebase_config.json
